@@ -1,0 +1,36 @@
+PODS:
+  - AsyncDisplayKit (1.2.3):
+    - AsyncDisplayKit/ASDealloc2MainObject (= 1.2.3)
+  - AsyncDisplayKit/ASDealloc2MainObject (1.2.3)
+  - BSImagePicker (1.4.1):
+    - UIImageViewModeScaleAspect (~> 1.3)
+  - Cartography (0.5.0)
+  - EstimoteSDK (3.3.3)
+  - performSelector-swift (0.1.0)
+  - ReactiveUI (0.0.2)
+  - UIColor+FlatColors (0.0.2)
+  - UIImageViewModeScaleAspect (1.3)
+  - ZLSwipeableViewSwift (0.0.2)
+
+DEPENDENCIES:
+  - AsyncDisplayKit
+  - BSImagePicker
+  - Cartography
+  - EstimoteSDK
+  - performSelector-swift
+  - ReactiveUI
+  - UIColor+FlatColors
+  - ZLSwipeableViewSwift
+
+SPEC CHECKSUMS:
+  AsyncDisplayKit: 5c8f38225f7478e39c48196cec0dd0d2ac3455ed
+  BSImagePicker: 2f00fbbeec9925e896a77a7017f5b17aa792a8b1
+  Cartography: 774e5cc446f5a6bca5d4345c5aa6af9a1fe74dc6
+  EstimoteSDK: 081e0653a747a6fc275eb26e6cb3b3fe5a87984f
+  performSelector-swift: 676d3dab420ed7e1505a7cdaf35e5741509cdd3c
+  ReactiveUI: 597b21e143dfc5fe438afc1b7a73c5c7e256175b
+  UIColor+FlatColors: 6c699df7a575281794c688c64cee6c44fd1f93b4
+  UIImageViewModeScaleAspect: ec78901acfc20d3782154111a21d34390f8f71ad
+  ZLSwipeableViewSwift: 28b161ea3445ee380b684dd828a4d4bebc2a1f95
+
+COCOAPODS: 0.36.0

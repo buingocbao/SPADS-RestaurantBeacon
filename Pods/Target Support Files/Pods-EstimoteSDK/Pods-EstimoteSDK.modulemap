@@ -1,0 +1,6 @@
+framework module EstimoteSDK {
+  umbrella header "Pods-EstimoteSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
